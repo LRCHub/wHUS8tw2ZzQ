@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ワンダーフォーゲル",
+  "base_artist": "くるり",
+  "createdAt": "2026-03-08T11:20:13.645374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンダーフォーゲル",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/01_ワンダーフォーゲル_くるり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワンダーフォーゲル (ベスト オブ くるり Remastered)",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/02_ワンダーフォーゲル_(ベスト_オブ_くるり_Remastered)_くるり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワンダーフォーゲル",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/03_ワンダーフォーゲル_くるり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワンダーフォーゲル",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/04_ワンダーフォーゲル_Quruli.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンダーフォーゲル",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_ワンダーフォーゲル_くるり.txt"
+    }
+  ]
+}
